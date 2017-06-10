@@ -5,10 +5,10 @@ This is Udacity FSND Logs Project. The python code runs sql queries via **psycon
 3. On which days did more than 1% of requests lead to errors?
 
 ### Instructions
-In order to run the program follow the commands below. Before running these commands make sure you have the installed required software **python3**, **vagrant** and **postgresql**. Also you should run the **newsdata.sql** given by Udacity.
+In order to run the program follow the commands below. Before running these commands make sure you have the installed required software **python3**, **vagrant** and **postgresql**. Also you must have run the **newsdata.sql** given by Udacity.
 
 * Clone the repository to your vagrant location.
-* Run the command once below to create views which contains queries to answer questions;
+* Run the command below ones to create views which contains queries to answer questions;
 ```sh
 $ psql -d news -f create_views.sql
 ```
