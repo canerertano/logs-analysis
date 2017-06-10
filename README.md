@@ -1,3 +1,9 @@
+# Logs Analysis Project
+This is Udacity FSND Logs Project. The python code runs sql queries via **psycong2** library to find out insights below from database which contains a web site's logs also authors and articles info.
+1. What are the most popular three articles of all time?
+2. Who are the most popular article authors of all time?
+3. On which days did more than 1% of requests lead to errors?
+
 ### Instructions
 In order to run the program follow the commands below. Before running these commands make sure you have the installed required software **python3**, **vagrant** and **postgresql**. Also you should run the **newsdata.sql** given by Udacity.
 
