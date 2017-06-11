@@ -79,4 +79,6 @@ def main():
     most_popular_authors()
     days_with_most_errors()
 
-main()
+
+if __name__ = "__main__":
+    main()
